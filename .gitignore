@@ -151,3 +151,4 @@ venv/
 doc/images
 configs/
 .github/workflows
+Dockerfile/
