@@ -136,7 +136,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-setup.py
 pytest.ini
 pyproject.toml
 MANIFEST.in
