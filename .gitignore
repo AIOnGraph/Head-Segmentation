@@ -140,7 +140,6 @@ pytest.ini
 pyproject.toml
 MANIFEST.in
 LICENSE
-Dockerfile
 conda_env.yml
 .pre-commit-config.yaml
 .isort.cfg
